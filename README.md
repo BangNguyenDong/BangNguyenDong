@@ -77,7 +77,7 @@ Learn Machine learning & AI](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 Python-Introduction to Data Science
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-445e5697-4e2e-4f2b-8235-3bbc854c424a.pdf)
--  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Machine Learning, Deep Learning + AWS Sagemaker
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Machine Learning, Deep Learning + AWS
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-fbafe0be-e1d4-4854-b5c5-fe6fe18f4bcf.pdf)
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Microsoft SQL Server for Beginners
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c3d73bc3-e921-4fd7-9952-14efdc1d118d.pdf)
