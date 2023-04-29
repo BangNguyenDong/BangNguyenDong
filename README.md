@@ -82,4 +82,10 @@ Python for beginners - Learn all the basics of python
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 Python-Introduction to Data Science and Machine learning A-Z
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-445e5697-4e2e-4f2b-8235-3bbc854c424a.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Machine Learning, Deep Learning + AWS Sagemaker
+](https://udemy-certificate.s3.amazonaws.com/pdf/UC-fbafe0be-e1d4-4854-b5c5-fe6fe18f4bcf.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Microsoft SQL Server for Beginners
+](https://udemy-certificate.s3.amazonaws.com/pdf/UC-c3d73bc3-e921-4fd7-9952-14efdc1d118d.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+Python for beginners - Learn all the basics of python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d77b34dd-55cd-4777-8256-095541062117.pdf)
 
