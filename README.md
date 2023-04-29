@@ -98,7 +98,7 @@
   </kbd>
 </p>
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
@@ -114,6 +114,5 @@
 
 
 -----
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
 
-Last Edited on: 20/01/2022
+
