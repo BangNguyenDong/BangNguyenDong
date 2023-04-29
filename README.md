@@ -70,3 +70,16 @@
 - [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)HTML5](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5b80214d-74c0-493c-995c-e8252b11d98f.pdf)
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) Artificial Intelligence (AI) in the Classroom
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6db6eba3-c692-40bc-9117-5e2d9e9ac28d.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)CSS ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-48e10862-d987-41a9-b071-1421c0941035.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)JAVASCRIPT](https://udemy-certificate.s3.amazonaws.com/pdf/UC-adbc15c8-942e-4bef-8ec3-b014464d5229.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+Learn Machine learning & AI](https://udemy-certificate.s3.amazonaws.com/pdf/UC-913f0325-ce59-4b22-8807-33540672347c.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Python for Beginners
+](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1df97014-307b-4cbb-a01e-696074ca5792.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+Python for beginners - Learn all the basics of python
+](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f7703da7-afed-4c36-8fd1-67253bffc3fc.pdf)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+Python-Introduction to Data Science and Machine learning A-Z
+](https://udemy-certificate.s3.amazonaws.com/pdf/UC-445e5697-4e2e-4f2b-8235-3bbc854c424a.pdf)
+
