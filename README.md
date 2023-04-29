@@ -74,9 +74,6 @@
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)JAVASCRIPT](https://udemy-certificate.s3.amazonaws.com/pdf/UC-adbc15c8-942e-4bef-8ec3-b014464d5229.pdf)
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 Learn Machine learning & AI](https://udemy-certificate.s3.amazonaws.com/pdf/UC-913f0325-ce59-4b22-8807-33540672347c.pdf)
--  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Python for Beginners
-](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1df97014-307b-4cbb-a01e-696074ca5792.pdf)
-](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f7703da7-afed-4c36-8fd1-67253bffc3fc.pdf)
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 Python-Introduction to Data Science and Machine learning A-Z
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-445e5697-4e2e-4f2b-8235-3bbc854c424a.pdf)
