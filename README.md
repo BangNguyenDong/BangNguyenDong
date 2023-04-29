@@ -28,7 +28,7 @@
   <a href="https://www.kaggle.com/mrbang2612" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
   </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="mailto:bang.nguyen2612@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
