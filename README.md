@@ -76,8 +76,6 @@
 Learn Machine learning & AI](https://udemy-certificate.s3.amazonaws.com/pdf/UC-913f0325-ce59-4b22-8807-33540672347c.pdf)
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Python for Beginners
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1df97014-307b-4cbb-a01e-696074ca5792.pdf)
--  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-Python for beginners - Learn all the basics of python
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f7703da7-afed-4c36-8fd1-67253bffc3fc.pdf)
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 Python-Introduction to Data Science and Machine learning A-Z
