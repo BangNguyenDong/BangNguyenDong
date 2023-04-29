@@ -75,7 +75,7 @@
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 Learn Machine learning & AI](https://udemy-certificate.s3.amazonaws.com/pdf/UC-913f0325-ce59-4b22-8807-33540672347c.pdf)
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-Python-Introduction to Data Science and Machine learning A-Z
+Python-Introduction to Data Science
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-445e5697-4e2e-4f2b-8235-3bbc854c424a.pdf)
 -  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)Machine Learning, Deep Learning + AWS Sagemaker
 ](https://udemy-certificate.s3.amazonaws.com/pdf/UC-fbafe0be-e1d4-4854-b5c5-fe6fe18f4bcf.pdf)
