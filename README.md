@@ -70,7 +70,8 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)HTML5](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5b80214d-74c0-493c-995c-e8252b11d98f.pdf)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
+-  [![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) Artificial Intelligence (AI) in the Classroom
+](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6db6eba3-c692-40bc-9117-5e2d9e9ac28d.pdf)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
