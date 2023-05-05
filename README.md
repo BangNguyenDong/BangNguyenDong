@@ -1,15 +1,15 @@
 <img align="left" width="500" height="500px" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, my name is Bang Nguyen</h1>
 <p align="center">
-I am a software developer from Vietnam. With 5 years of experience in programming, I have a strong passion for creating websites, apps, embedded systems, and AIoT solutions.
+I am a software developer from Vietnam. With 5 years of experience in programming, I have a strong passion for creating websites, apps, embedded systems, and AIoT solutions.<br>
 
-Throughout my career, I have worked on a variety of projects, ranging from simple websites to complex IoT systems. I enjoy the challenge of problem-solving and finding innovative solutions to create efficient and effective software.
+Throughout my career, I have worked on a variety of projects, ranging from simple websites to complex IoT systems. I enjoy the challenge of problem-solving and finding innovative solutions to create efficient and effective software.<br>
 
-My programming skills include proficiency in several languages, such as Java, Python, and C++. Additionally, I have experience in front-end development, back-end development, and database management.
+My programming skills include proficiency in several languages, such as Java, Python, and C++. Additionally, I have experience in front-end development, back-end development, and database management.<br>
 
-I am constantly learning and improving my skills to keep up with the latest technologies and trends in the industry. I believe that my dedication, creativity, and strong work ethic make me a valuable asset to any team or project.
+I am constantly learning and improving my skills to keep up with the latest technologies and trends in the industry. I believe that my dedication, creativity, and strong work ethic make me a valuable asset to any team or project.<br>
 
-Thank you for considering me as a potential candidate for your software development needs.</h3>
+Thank you for considering me as a potential candidate for your software development needs.<br>
 
 </p>
 <br>
