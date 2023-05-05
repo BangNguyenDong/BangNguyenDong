@@ -1,4 +1,4 @@
-<img align="left" width="500" height="500px" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="600" height="600px" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, my name is Bang Nguyen</h1>
 <p align="center">
 I am a software developer from Vietnam. With 5 years of experience in programming, I have a strong passion for creating websites, apps, embedded systems, and AIoT solutions.<br>
