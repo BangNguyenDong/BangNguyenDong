@@ -1,5 +1,6 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, my name is Bang Nguyen, and I am a software developer from Vietnam. With 5 years of experience in programming, I have a strong passion for creating websites, apps, embedded systems, and AIoT solutions.
+<h1 align="center">Hi 👋, my name is Bang Nguyen</h1>
+<h3 align="center">I am a software developer from Vietnam. With 5 years of experience in programming, I have a strong passion for creating websites, apps, embedded systems, and AIoT solutions.
 
 Throughout my career, I have worked on a variety of projects, ranging from simple websites to complex IoT systems. I enjoy the challenge of problem-solving and finding innovative solutions to create efficient and effective software.
 
@@ -7,7 +8,7 @@ My programming skills include proficiency in several languages, such as Java, Py
 
 I am constantly learning and improving my skills to keep up with the latest technologies and trends in the industry. I believe that my dedication, creativity, and strong work ethic make me a valuable asset to any team or project.
 
-Thank you for considering me as a potential candidate for your software development needs.</h1>
+Thank you for considering me as a potential candidate for your software development needs.</h3>
 
 </p>
 
